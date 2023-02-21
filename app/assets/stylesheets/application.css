@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ .list-group-item{
+  text-decoration: none;
+  text-decoration-line: none;
+ }
+
+ h1{
+  padding-top: 20px;
+  padding-bottom: 20px;
+ }
+
+ .list-group {
+  padding-bottom: 40px;
+ }
